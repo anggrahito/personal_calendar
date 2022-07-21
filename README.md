@@ -37,7 +37,8 @@ Screenshots
 
 ### Calendar ID
 
-https://github.com/anggrahito/personal_calendar/blob/main/docs/CalendarID.png
+![PersonalCalendar](https://github.com/anggrahito/personal_calendar/blob/main/docs/CalendarID.png)
+
 
 
 
