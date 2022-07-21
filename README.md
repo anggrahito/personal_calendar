@@ -32,6 +32,12 @@ Hear are the step to prepare google calendar in order to sync the data from goog
 * copy the calendarId into the apps script,
 
 
+Screenshots
+-----------
+
+### Calendar ID
+
+https://github.com/anggrahito/personal_calendar/blob/main/docs/CalendarID.png
 
 
 
