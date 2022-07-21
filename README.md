@@ -23,9 +23,9 @@ For example, the table of personal schedule provide 8 (eight) columns header, na
 
 Screenshots
 -----------
-### Create schedule seet
+### Create schedule sheet
 
-![]()
+![PersonalCalendar](https://github.com/anggrahito/personal_calendar/blob/main/docs/gsheet.png)
 
 
 Google Calendar
