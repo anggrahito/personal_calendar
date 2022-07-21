@@ -21,6 +21,12 @@ For example, the table of personal schedule provide 8 (eight) columns header, na
 * Description,
 * Status
 
+Screenshots
+-----------
+### Create schedule seet
+
+![]()
+
 
 Google Calendar
 ----------------
