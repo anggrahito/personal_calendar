@@ -45,6 +45,10 @@ Screenshots
 
 ![PersonalCalendar](https://github.com/anggrahito/personal_calendar/blob/main/docs/CalendarID.png)
 
+### Google Calendar
+
+![PersonalCalendar](https://github.com/anggrahito/personal_calendar/blob/main/docs/GCalendar.png)
+
 
 
 
