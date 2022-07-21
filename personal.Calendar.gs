@@ -31,7 +31,9 @@ function createCalenderEvent() {
   {
     var events = personalCalender.getEvents( startDate, endDate);
     delete_events(events);
-    var calendar = personalCalender.createEvent(title, startDate, endDate, {description: description});
+    var calendar = personalCalender.createEvent(title, startDate, endDate, 
+			{description: description,
+			 guests: partnerEmail});
   }
 }
 
